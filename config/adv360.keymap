@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
- &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5               &tog 1                                                                                    &mo 3  &kp N6  &kp N7     &kp N8    &kp N9    &kp N0      &kp MINUS
-   &kp TAB      &kp Q     &kp W     &kp F      &kp P   &kp B            &kp TILDE                                                                                 &kp PIPE   &kp J   &kp L      &kp U     &kp Y     &none       &kp APOS
-   &kp ESC      &kp A     &kp R     &kp S      &kp T   &kp G               &tog 4      &kp LCTRL      &kp LGUI                       &kp RGUI  &kp RCTRL  &kp GREATER_THAN   &kp M   &kp N      &kp E     &kp I     &kp O  &kp BACKSLASH
- &kp LSHFT      &kp Z     &kp X     &kp C      &kp D   &kp V                                      &kp LEFT_ALT                  &kp RIGHT_ALT                                &kp K   &kp H  &kp COMMA   &kp DOT  &kp FSLH      &kp RSHFT
-     &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE  &kp BACKSPACE         &none                          &none    &kp DEL         &kp ENTER          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT          &mo 2
+ &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5               &tog 1                                                                                     &mo 3  &kp N6  &kp N7     &kp N8    &kp N9    &kp N0      &kp MINUS
+   &kp TAB      &kp Q     &kp W     &kp F      &kp P   &kp B             &kp PLUS                                                                              &kp QUESTION   &kp J   &kp L      &kp U     &kp Y     &none       &kp APOS
+   &kp ESC      &kp A     &kp R     &kp S      &kp T   &kp G               &tog 4      &kp LCTRL      &kp LGUI                       &kp RGUI  &kp RCTRL  &kp DOUBLE_QUOTES   &kp M   &kp N      &kp E     &kp I     &kp O  &kp BACKSLASH
+ &kp LSHFT      &kp Z     &kp X     &kp C      &kp D   &kp V                                      &kp LEFT_ALT                  &kp RIGHT_ALT                                 &kp K   &kp H  &kp COMMA   &kp DOT  &kp FSLH      &kp RSHFT
+     &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE  &kp BACKSPACE         &none                          &none    &kp DEL          &kp ENTER          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT          &mo 2
             >;
         };
 
