@@ -6,7 +6,8 @@
     "base",
     "keypad",
     "fn",
-    "mod"
+    "mod",
+    "Special"
   ],
   "layers": [
     [
@@ -33,6 +34,12 @@
         "&none",        "&none",        "&none",        "&none",        "&none",        "&none",                 "&none",  "&none",  "&none",                     "&bt BT_CLR",      "&none", "&rgb_ug RGB_MEFS_CMD 5",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
+    ], [
+       "&trans", "&trans", "&kp RA(N8)", "&kp RA(ASTERISK)", "&kp LS(N8)", "&kp LS(N6)",           "&trans",                                                             "&trans", "&kp LS(N0)", "&kp LS(N9)", "&kp RA(N0)", "&kp RA(N9)", "&trans", "&trans",
+       "&trans", "&trans",     "&trans",           "&trans",     "&trans",     "&trans",           "&trans",                                                             "&trans",     "&trans",     "&trans",     "&trans",     "&trans", "&trans", "&trans",
+       "&trans", "&trans",     "&trans",           "&trans",     "&trans",     "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",     "&trans",     "&trans",     "&trans",     "&trans", "&trans", "&trans",
+       "&trans", "&trans",     "&trans",           "&trans",     "&trans",     "&trans",                               "&trans",                     "&trans",                         "&trans",     "&trans",     "&trans",     "&trans", "&trans", "&trans",
+       "&trans", "&trans",     "&trans",           "&trans",     "&trans",                         "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",     "&trans",     "&trans", "&trans", "&trans"
     ]
   ]
 }

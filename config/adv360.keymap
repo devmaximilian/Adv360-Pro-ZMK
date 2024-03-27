@@ -78,5 +78,15 @@
             >;
         };
 
+        layer_Special {
+            bindings = <
+ &trans  &trans  &kp RA(N8)  &kp RA(ASTERISK)  &kp LS(N8)  &kp LS(N6)            &trans                                                  &trans  &kp LS(N0)  &kp LS(N9)  &kp RA(N0)  &kp RA(N9)  &trans  &trans
+ &trans  &trans      &trans            &trans      &trans      &trans            &trans                                                  &trans      &trans      &trans      &trans      &trans  &trans  &trans
+ &trans  &trans      &trans            &trans      &trans      &trans            &trans  &trans  &trans                  &trans  &trans  &trans      &trans      &trans      &trans      &trans  &trans  &trans
+ &trans  &trans      &trans            &trans      &trans      &trans                            &trans                  &trans                      &trans      &trans      &trans      &trans  &trans  &trans
+ &trans  &trans      &trans            &trans      &trans                        &trans  &trans  &trans                  &trans  &trans  &trans                  &trans      &trans      &trans  &trans  &trans
+            >;
+        };
+
     };
 };
